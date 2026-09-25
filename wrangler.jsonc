@@ -1,0 +1,11 @@
+{
+	"name": "url-shortener",
+	"main": "src/index.js",
+	"compatibility_date": "2026-09-01",
+	"kv_namespaces": [
+		{
+			"binding": "LINKS",
+			"id": "30bb586e86fe4a429d7e0bf935e1b54c"
+		}
+	]
+}
